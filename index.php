@@ -3,8 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <title>เลือกไพ่ Poker</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="chip.png" type="image/png">
+
+  <!-- Meta tags for SEO -->
+  <meta name="description" content="เล่นเกมโป๊กเกอร์ออนไลน์ง่ายๆ พร้อมเลือกไพ่จากตัวเลือกที่หลากหลาย">
+  <meta name="keywords" content="Poker, เกมโป๊กเกอร์, เล่นโป๊กเกอร์ออนไลน์, ไพ่, เกมไพ่, Poker game">
+  <meta name="author" content="Pe.NewZa">
+  
+  <!-- Open Graph for social media -->
+  <meta property="og:title" content="เลือกไพ่ Poker">
+  <meta property="og:description" content="เล่นเกมโป๊กเกอร์ออนไลน์ง่ายๆ พร้อมเลือกไพ่จากตัวเลือกที่หลากหลาย">
+  <meta property="og:image" content="chip.png">
+  <meta property="og:url" content="https://poker-07yu.onrender.com/">
+  <meta property="og:type" content="website">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="เลือกไพ่ Poker">
+  <meta name="twitter:description" content="เล่นเกมโป๊กเกอร์ออนไลน์ง่ายๆ พร้อมเลือกไพ่จากตัวเลือกที่หลากหลาย">
+  <meta name="twitter:image" content="chip.png">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
   <style>
     body { font-family: sans-serif; }
     .slot {
