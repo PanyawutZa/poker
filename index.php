@@ -34,7 +34,7 @@
 </head>
 <body>
 <div class="container py-4">
-  <h2 class="text-center mb-4">เลือกไพ่ Poker</h2>
+  <h2 class="text-center mb-4">เลือกไพ่ Poker & Bang New</h2>
 
   <div class="text-center mb-3">
     <label for="player_count">จำนวนผู้เล่น (รวมคุณ):</label>
